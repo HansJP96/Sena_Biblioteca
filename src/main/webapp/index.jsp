@@ -1,0 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>JSP Page</title>
+</head>
+<body>
+	<h1>adsa</h1>
+	<jsp:forward page="listarLibros.jsp"></jsp:forward>
+</body>
+</html>
