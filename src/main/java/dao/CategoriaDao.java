@@ -7,7 +7,6 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 
 import model.Categoria;
-import model.Editorial;
 
 public class CategoriaDao {
 	
